@@ -4,12 +4,8 @@ import { initReactI18next } from 'react-i18next'
 import fr from './locales/fr.json'
 import en from './locales/en.json'
 
-const getBrowserLanguage = (): string => {
-  const browserLang = navigator.language.split('-')[0]
-  return ['fr', 'en'].includes(browserLang) ? browserLang : 'fr'
-}
-
-const savedLanguage = localStorage.getItem('language') || getBrowserLanguage()
+// Default to French unless the user explicitly chose a language
+const savedLanguage = localStorage.getItem('language') || 'fr'
 
 i18n
   .use(initReactI18next)
