@@ -307,6 +307,25 @@ function App() {
         </div>
       </section>
 
+      {/* Contact CTA Section */}
+      <section id="contact" className="py-20 md:py-28 bg-(--color-charcoal) text-white">
+        <div className="max-w-4xl mx-auto px-4 text-center">
+          <h2 className="font-serif text-3xl md:text-5xl font-semibold mb-6">{t('cta.title')}</h2>
+          <p className="text-gray-300 text-lg mb-8 max-w-2xl mx-auto">
+            {t('cta.subtitle')}
+          </p>
+          <a
+            href="tel:819-243-5234"
+            className="inline-flex items-center gap-3 bg-(--color-gold) text-white px-8 py-4 rounded-full text-xl font-medium hover:bg-(--color-gold-light) transition-colors"
+          >
+            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+            </svg>
+            819-243-5234
+          </a>
+        </div>
+      </section>
+
       {/* Footer */}
       <footer className="bg-(--color-charcoal) text-gray-400 py-8 border-t border-gray-700">
         <div className="max-w-6xl mx-auto px-4">
