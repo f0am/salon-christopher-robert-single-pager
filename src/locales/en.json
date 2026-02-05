@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "services": "Services",
+    "products": "Products",
+    "hours": "Hours",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Salon Christopher Robert",
+    "subtitle": "Your beauty destination at Promenades Gatineau. Hair styling, barbershop, aesthetics and more.",
+    "callUs": "Call us",
+    "ourServices": "Our services"
+  },
+  "services": {
+    "title": "Our Services",
+    "items": {
+      "coiffure": {
+        "name": "Hair Styling",
+        "description": "Men, women, children"
+      },
+      "barbier": {
+        "name": "Barbershop",
+        "description": "Traditional cuts and shaves"
+      },
+      "esthetique": {
+        "name": "Aesthetics",
+        "description": "Face and body care"
+      },
+      "maquillage": {
+        "name": "Permanent Makeup",
+        "description": "Eyebrows, lips, eyeliner"
+      },
+      "percage": {
+        "name": "Piercing",
+        "description": "Ears and body"
+      },
+      "ongles": {
+        "name": "Nail Services",
+        "description": "Manicure and full set"
+      },
+      "botox": {
+        "name": "Hair Botox",
+        "description": "Restorative treatment"
+      }
+    }
+  },
+  "quote": "Beauty begins the moment you decide to be yourself",
+  "products": {
+    "title": "Our Products",
+    "subtitle": "We use and sell the best professional brands",
+    "moreProducts": "And many more brands available in salon",
+    "categories": {
+      "hairCare": {
+        "name": "Hair Care",
+        "description": "Professional shampoos and treatments"
+      },
+      "styling": {
+        "name": "Styling & Color",
+        "description": "Styling and coloring products"
+      },
+      "skincare": {
+        "name": "Skincare",
+        "description": "Face and body care"
+      }
+    }
+  },
+  "hours": {
+    "title": "Hours",
+    "days": {
+      "monTue": "Monday - Tuesday",
+      "wed": "Wednesday",
+      "thuFri": "Thursday - Friday",
+      "sat": "Saturday",
+      "sun": "Sunday"
+    }
+  },
+  "location": {
+    "title": "Find Us",
+    "entrance": "Promenades Gatineau - Door 6",
+    "getDirections": "Get directions"
+  },
+  "cta": {
+    "title": "Ready for a new look?",
+    "subtitle": "Call us now to book an appointment or come visit us at the salon."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "services": "Services",
+    "products": "Produits",
+    "hours": "Horaire",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Salon Christopher Robert",
+    "subtitle": "Votre destination beauté aux Promenades Gatineau. Coiffure, barbier, esthétique et plus encore.",
+    "callUs": "Appelez-nous",
+    "ourServices": "Nos services"
+  },
+  "services": {
+    "title": "Nos Services",
+    "items": {
+      "coiffure": {
+        "name": "Coiffure",
+        "description": "Hommes, femmes, enfants"
+      },
+      "barbier": {
+        "name": "Barbier",
+        "description": "Coupes et rasages traditionnels"
+      },
+      "esthetique": {
+        "name": "Esthétique",
+        "description": "Soins du visage et du corps"
+      },
+      "maquillage": {
+        "name": "Maquillage permanent",
+        "description": "Sourcils, lèvres, eye-liner"
+      },
+      "percage": {
+        "name": "Perçage",
+        "description": "Oreilles et corporel"
+      },
+      "ongles": {
+        "name": "Pose d'ongles",
+        "description": "Manucure et pose complète"
+      },
+      "botox": {
+        "name": "Botox capillaire",
+        "description": "Traitement réparateur"
+      }
+    }
+  },
+  "quote": "La beauté commence au moment où vous décidez d'être vous-même",
+  "products": {
+    "title": "Nos Produits",
+    "subtitle": "Nous utilisons et vendons les meilleures marques professionnelles",
+    "moreProducts": "Et plusieurs autres marques disponibles en salon",
+    "categories": {
+      "hairCare": {
+        "name": "Soins capillaires",
+        "description": "Shampoings et soins professionnels"
+      },
+      "styling": {
+        "name": "Coiffage & Couleur",
+        "description": "Produits de styling et coloration"
+      },
+      "skincare": {
+        "name": "Esthétique",
+        "description": "Soins du visage et du corps"
+      }
+    }
+  },
+  "hours": {
+    "title": "Horaire",
+    "days": {
+      "monTue": "Lundi - Mardi",
+      "wed": "Mercredi",
+      "thuFri": "Jeudi - Vendredi",
+      "sat": "Samedi",
+      "sun": "Dimanche"
+    }
+  },
+  "location": {
+    "title": "Nous trouver",
+    "entrance": "Promenades Gatineau - Porte 6",
+    "getDirections": "Obtenir l'itinéraire"
+  },
+  "cta": {
+    "title": "Prêt pour un nouveau look?",
+    "subtitle": "Appelez-nous dès maintenant pour prendre rendez-vous ou passez nous voir au salon."
+  },
+  "footer": {
+    "rights": "Tous droits réservés."
+  }
+}
