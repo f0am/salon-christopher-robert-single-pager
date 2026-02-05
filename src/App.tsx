@@ -97,7 +97,7 @@ function App() {
         <div
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: 'url(https://images.unsplash.com/photo-1560066984-138dadb4c035?ixlib=rb-4.0.3&auto=format&fit=crop&w=1974&q=80)',
+            backgroundImage: 'url(/hero-bg.jpg)',
           }}
         >
           <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-black/30 to-black/60"></div>
@@ -292,7 +292,7 @@ function App() {
               {/* Map */}
               <div className="rounded-2xl overflow-hidden h-64">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2798.5!2d-75.7383!3d45.4669!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cce04f9d9b0d4f5%3A0x8e4c5e6f7a8b9c0d!2sLes%20Promenades%20Gatineau!5e0!3m2!1sfr!2sca!4v1700000000000"
+                  src="https://maps.google.com/maps?q=1100+Boulevard+Maloney+O,+Gatineau,+QC+J8T+6G3,+Canada&t=&z=15&ie=UTF8&iwloc=&output=embed"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
